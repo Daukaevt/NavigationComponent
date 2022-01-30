@@ -7,22 +7,22 @@
 
     <fragment
         android:id="@+id/poceViewFragment"
-        android:name="com.wixsite.mupbam1.resume.navcomponent.PoceViewFragment"
+        android:name="com.wixsite.mupbam1.resume.navcomponent.presentation.PoceViewFragment"
         android:label="View"
         tools:layout="@layout/fragment_poce_view" />
     <fragment
         android:id="@+id/poceSearchFragment"
-        android:name="com.wixsite.mupbam1.resume.navcomponent.PoceSearchFragment"
+        android:name="com.wixsite.mupbam1.resume.navcomponent.presentation.PoceSearchFragment"
         android:label="Search"
         tools:layout="@layout/fragment_poce_search" />
     <fragment
         android:id="@+id/poceRndFragment"
-        android:name="com.wixsite.mupbam1.resume.navcomponent.PoceRndFragment"
+        android:name="com.wixsite.mupbam1.resume.navcomponent.presentation.PoceRndFragment"
         android:label="Random"
         tools:layout="@layout/fragment_poce_rnd" />
     <fragment
         android:id="@+id/poceFavoritesFragment"
-        android:name="com.wixsite.mupbam1.resume.navcomponent.PoceFavoritesFragment"
+        android:name="com.wixsite.mupbam1.resume.navcomponent.presentation.PoceFavoritesFragment"
         android:label="Favorites"
         tools:layout="@layout/fragment_poce_favorites" />
 </navigation>
