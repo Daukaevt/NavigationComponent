@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavComponent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="poce_view_fragment">poce_view_fragment</string>
+    <string name="poce_search_fragment">poce_search_fragment</string>
+    <string name="poce_rnd_fragment">poce_rnd_fragment</string>
+    <string name="poce_favorits_fragment">poce_favorits_fragment</string>
+    <string name="poceview">PoceView</string>
+    <string name="pocesearch">PoceSearch</string>
+    <string name="pocerandom">PoceRandom</string>
+    <string name="pocefavorits">PoceFavorits</string>
+</resources>
